@@ -4,7 +4,7 @@ My name is Siddharth, and I am currently an undergraduate student studying Compu
 My interests include software engineering, web development, and computer programming.
 
 ## Links
-[Website](https://siddharthnag.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/siddharth-nag/) • [GitHub](https://github.com/siddharthnag) • [Email](siddhu.nag@gmail.com)
+[Website](https://siddharthnag.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/siddharth-nag/) • [GitHub](https://github.com/siddharthnag) • [Email](mailto:siddhu.nag@gmail.com)
 
 <!---
 - 👋 Hi, I’m @siddharthnag
