@@ -1,6 +1,6 @@
 # 👋 Hello! 
 
-My name is Siddharth, and I am currently an undergraduate student studying Computer Engineering at the UC San Diego. 
+My name is Siddharth, and I am currently an undergraduate student studying Computer Science at the UC San Diego. 
 My interests include software engineering, web development, and computer programming.
 
 ## Links
