@@ -1,7 +1,6 @@
 # 👋 Hello! 
 
-My name is Siddharth, and I am currently an undergraduate student studying Computer Science at the UC San Diego. 
-My interests include software engineering, web development, and computer programming.
+I am a BS/MS Computer Science student at the University of California, San Diego. I was an SDE intern in Amazon Timestream in Summer 2022. My interests include database management, software engineering, and web development. I look forward to connecting with you!
 
 ## Links
 <!--- [Website](https://siddharthnag.github.io/Portfolio/) • ---> 
